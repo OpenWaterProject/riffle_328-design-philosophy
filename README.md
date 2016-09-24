@@ -473,3 +473,12 @@ In general, we envision that compatible, coherent hardware and software designs 
 Meanwhile, information and documentation that has been gathered about the use of such tools, as well as collections of various tools appropriate to particular use-cases, can be hosted using infrastructure that better facilities community dialogue and curation, such as the [Publiclab.org](http://publiclab.org) website.
 
 
+# How you can contribute
+
+Some useful guidelines about the best way to contribute to the project (or to fork it) can be found [here](contributing.md).
+
+# Support and Licensing 
+
+The Riffle_328 project has been supported through [Public Lab](www.publiclab.org)'s Open Water Initiative, and is licensed under [CERN OHL 1.2](LiCENSE.md).
+
+<a href="http://publiclab.org"><img src="pics/boots.png" width=100></a>
