@@ -13,10 +13,10 @@ By now, several instrument designs have been constructed around the Riffle, some
 - [riffle_328](https://github.com/OpenWaterProject/riffle_328) -- hardware designs, instructions and software for getting started with the Riffle_328 datalogger
 - [riffle_328-conductivity](https://github.com/OpenWaterProject/riffle_328-conductivity) -- Design considerations around conductivity
 - [riffle_328-depth](https://github.com/OpenWaterProject/riffle_328-depth) -- Depth measurement circuit prototype
-- [riffle_328-turbidity](https://github.com/OpenWaterProject/riffle_328-depth) -- Turbidity sensor prototype
+- [riffle_328-turbidity](https://github.com/OpenWaterProject/riffle_328-turbidity) -- Turbidity sensor prototype
 - [riffle_328-thermistor](https://github.com/OpenWaterProject/riffle_328-thermistor) -- Connecting a thermistor to a Riffle
-- [riffle_328-i2c](https://github.com/OpenWaterProject/rriffle_328-depth) -- Connecting i2c sensors to a Riffle
-- [riffle_328-one-wire](https://github.com/OpenWaterProject/rriffle_328-one-wire) -- Connecting one-wire sensors to a Riffle
+- [riffle_328-i2c](https://github.com/OpenWaterProject/riffle_328-i2c) -- Connecting i2c sensors to a Riffle
+- [riffle_328-one-wire](https://github.com/OpenWaterProject/riffle_328-one-wire) -- Connecting one-wire sensors to a Riffle
 
 The following document attempts to detail the various design considerations involved in various aspects of the Riffle design throughout its development to-date.
 
